@@ -118,3 +118,11 @@ Our model is not fair. Its accuracy for games that are longer is lower than its 
 #### Permutation Test Conclusion
 
 After conducting the permutation test, I came up with a p-value of 0.0. This means that none of my simulated differences in accuracy were as low or lower than my observed statistic.
+
+A visualization of the permutation test can be seen below:
+
+<iframe src="assets/modeling_league.html" width=800 height=600 frameBorder=0></iframe>
+
+According to the visualization above, our observed difference in accuracy was a lot lower than the rest of our simulated statistics, being almost 0.2 (20%) lower for even the closest simulated difference in accuracy.
+
+Since our p-value of 0.0 is less than alpha = 0.05, we reject the null hypothesis that our model is fair and that our model's accuracy for games that are long and games that are not long are roughly the same. Our permutation test supports that the accuracy for long games is significantly less than the accuracy for regular or non-long length games.
