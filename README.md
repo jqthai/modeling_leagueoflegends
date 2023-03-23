@@ -121,7 +121,7 @@ After conducting the permutation test, I came up with a p-value of 0.0. This mea
 
 A visualization of the permutation test can be seen below:
 
-<iframe src="assets/modeling_league.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="assets/modeling_league1.html" width=800 height=600 frameBorder=0></iframe>
 
 According to the visualization above, our observed difference in accuracy was a lot lower than the rest of our simulated statistics, being almost 0.2 (20%) lower for even the closest simulated difference in accuracy.
 
