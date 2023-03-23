@@ -1,6 +1,6 @@
 # Predicting Game Outcomes for Tier 1 Professional League of Legends Teams
 
-by James Thai (jqthai@ucsd.edu)
+by James Thai [(jqthai@ucsd.edu)](jqthai@ucsd.edu)
 
 ---
 
